@@ -1,11 +1,11 @@
 # dermatologist-ai
 
-# Introduction
+## Introduction
 This repository contains a Jupyter notebook which describes step by step the creation of a convolutional neural network (CNN) which can diagnose melanoma based on images.
 
 The data and objective are pulled from https://github.com/udacity/dermatologist-ai.
 
-# Getting Started
+## Getting Started
 1. Clone this repository
 
 2. Create the folders `data/train`, `data/valid` and `data/test`.
@@ -17,3 +17,5 @@ The data and objective are pulled from https://github.com/udacity/dermatologist-
 5. Download and unzip the [test data](https://s3-us-west-1.amazonaws.com/udacity-dlnfd/datasets/skin-cancer/test.zip)
 
 6. Move the downloaded images to `data/train/`, `data/valid/` and `data/test/`, respectively.
+
+7. Run the Jupyter notebook
